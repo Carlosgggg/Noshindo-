@@ -1,0 +1,23 @@
+"name": "noshindo",
+		"leaderName": "Carloscaca",
+		"adjective": ["noshindiano"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": " no creo que esto te beneficie.",
+		"attacked": "no me agas hacer esto",
+		"defeated": "valla me has sorprendido .",
+		"introduction": "hola soy Carlos el mago llameante.",
+		"neutralHello": "hola.",
+		"hateHello": "no me esperaba encontrarte...",
+		"tradeRequest": "que te parece esta propuesta.",
+		"outerColor": [255, 255, 255],
+		"innerColor": [184, 0, 0],
+		"favoredReligion": "pastafarismo",
+		"uniqueName": "Bushido",
+		"uniques": ["no se que decir<for [non-[Air]] units>"],
+		"cities": ["Nubia","shindo","Alfredo","yandi"],
+        "spyNames": ["rodrigo", "sumate", "ethan"]
